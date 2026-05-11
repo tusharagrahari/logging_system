@@ -1,0 +1,13 @@
+[2026-05-11 18:30:22][DEBUG]Initializing payment service
+[2026-05-11 18:30:22][INFO]Server started on port 8080
+[2026-05-11 18:30:22][WARNING]High memory usage detected: 85%
+[2026-05-11 18:30:22][ERROR]Payment failed for user ID 1234
+[2026-05-11 18:30:22][FATAL]Database connection lost — system shutting down
+[2026-05-11 18:30:22][ERROR]This ERROR should pass through
+[2026-05-11 18:30:22][FATAL]This FATAL should pass through
+[2026-05-11 18:30:22][INFO]Thread 1 — log entry 0
+[2026-05-11 18:30:22][INFO]Thread 2 — log entry 0
+[2026-05-11 18:30:22][INFO]Thread 1 — log entry 1
+[2026-05-11 18:30:22][INFO]Thread 2 — log entry 1
+[2026-05-11 18:30:22][INFO]Thread 1 — log entry 2
+[2026-05-11 18:30:22][INFO]Thread 2 — log entry 2
